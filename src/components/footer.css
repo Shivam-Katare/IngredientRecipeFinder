@@ -1,0 +1,10 @@
+.footer {
+  margin: 25px;
+    font-family: monospace;
+    font-size: 21px;
+    font-weight: 900;
+}
+
+.footer a {
+  color: red;
+}
